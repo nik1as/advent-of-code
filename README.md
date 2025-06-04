@@ -1,3 +1,3 @@
 # Advent of Code
 
-[Advent of Code 2024](https://adventofcode.com/2024)
+My [Advent of Code](https://adventofcode.com) solutions.
